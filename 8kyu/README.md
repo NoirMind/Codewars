@@ -4,7 +4,7 @@
 [https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript]
 
 
-# my answer
+### my answer
 
 ``` 
 function multiply(a, b){
@@ -14,12 +14,24 @@ function multiply(a, b){
 ```
 
 
-# 2-question: 
+### 2-question: 
 [https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript]
-# my answer :
+### my answer :
 
 ```
 function evenOrOdd(number) {
  return number % 2 == 0?"Even":"Odd"
+}
+```
+
+### 3-question
+
+[https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/javascript]
+
+### my answer 
+
+```
+function numberToString(num) {
+ return ""+num
 }
 ```
