@@ -38,6 +38,17 @@ function numberToString(num) {
 
 ### 4-question
 
-[https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/javascript]
+[https://www.codewars.com/kata/55685cd7ad70877c23000102/train/javascript]
 
 ### my answer 
+
+```
+function makeNegative(num) {
+  if(num < 0){
+    return -num
+  }else {
+    return -num
+  }
+}(1)
+
+```
