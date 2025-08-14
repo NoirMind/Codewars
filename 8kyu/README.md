@@ -44,13 +44,8 @@ function numberToString(num) {
 
 ```
 function makeNegative(num) {
-  if(num < 0){
-    return -num
-  }else {
-    return -num
-  }
-}(1)
-
+ return num >0 ? num*(-1):num 
+}
 ```
 
 ### 5-question
