@@ -104,3 +104,17 @@ const stringToNumber = function(str){
 }
 
 ```
+
+### 10-question
+
+[https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript]
+
+### my answer
+
+```
+
+function noSpace(x){
+ return x.replace(/\s/g, "")
+}
+
+```
