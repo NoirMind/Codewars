@@ -116,4 +116,29 @@ function makeUpperCase(str) {
   return str.toUpperCase();
 }
 
+=======
+### 10-question
+
+[https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript]
+
+### my answer
+
+```
+
+function noSpace(x){
+ return x.replace(/\s/g, "")
+}
+
+```
+
+### 11-question
+
+[https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/javascript]
+
+### my answer 
+
+```
+function booleanToString(b){
+  return b.toString();
+}
 ```
