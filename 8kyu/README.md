@@ -67,3 +67,14 @@ function opposite(number) {
   return number >0? number*(-1):Math.abs(number)
 }
 ```
+
+### 7-question
+[https://www.codewars.com/kata/523b4ff7adca849afe000035/train/javascript]
+
+### my answers
+
+```
+function greet(){
+  return "hello world!"
+}
+```
