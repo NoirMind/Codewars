@@ -90,3 +90,17 @@ function removeChar(str){
  return str.slice (1, -1);
 };
 ```
+
+### 9-question
+
+[https://www.codewars.com/kata/544675c6f971f7399a000e79/train/javascript]
+
+### my answer
+
+```
+const stringToNumber = function(str){
+  let num = 1234
+  return Number(str);
+}
+
+```
