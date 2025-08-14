@@ -35,3 +35,17 @@ function numberToString(num) {
  return ""+num
 }
 ```
+
+### 4-question
+
+[https://www.codewars.com/kata/55685cd7ad70877c23000102/train/javascript]
+
+### my answer 
+
+```
+function makeNegative(num) {
+ return num >0 ? num*(-1):num 
+}
+```
+
+### 5-question
