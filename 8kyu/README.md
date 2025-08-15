@@ -116,29 +116,43 @@ function makeUpperCase(str) {
   return str.toUpperCase();
 }
 
-=======
-### 10-question
+```
 
-[https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript]
+### 13-question 
+
+[https://www.codewars.com/kata/583710ccaa6717322c000105/train/javascript]
 
 ### my answer
 
 ```
+function simpleMultiplication(number) {
+    return number % 2 === 0 ? number * 8 : number * 9;
+  }
 
-function noSpace(x){
- return x.replace(/\s/g, "")
+```
+
+### 14-question 
+
+[https://www.codewars.com/kata/57a0885cbb9944e24c00008e/train/javascript]
+
+### my answer
+
+```
+function removeExclamationMarks(s) {
+  return s.replaceAll("!", "");
 }
 
 ```
 
-### 11-question
+### 15-question
 
-[https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/javascript]
+[https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript]
 
 ### my answer 
 
 ```
-function booleanToString(b){
-  return b.toString();
-}
-```
+function repeatStr (n, s) {
+  return s.repeat(n);
+  }
+
+  ```
