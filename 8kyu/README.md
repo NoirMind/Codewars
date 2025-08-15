@@ -185,3 +185,17 @@ function greet(name){
 }("Ryan")
 
 ```
+
+### 18-question 
+
+[https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/javascript]
+
+### my answer 
+
+```
+
+function century(year) {
+  return Math.ceil(year / 100)
+}
+
+```
