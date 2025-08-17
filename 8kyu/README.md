@@ -199,3 +199,21 @@ function century(year) {
 }
 
 ```
+
+### 19-question
+
+[https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058/train/javascript]
+
+### my answer 
+
+```
+
+function spEng(sentence){
+  let lower = sentence.toLowerCase();
+  if(lower.includes ("english")){
+    return true
+  }
+  else return false
+}
+
+```
