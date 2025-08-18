@@ -266,3 +266,20 @@ function abbrevName(name){
 }
 
 ```
+
+### 23-question 
+
+[https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/javascript]
+
+### my answer 
+
+```
+
+function digitize(n) {
+  return String(n)
+    .split('')
+    .map(Number)
+    .reverse();
+}
+
+```
