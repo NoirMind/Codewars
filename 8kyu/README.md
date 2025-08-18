@@ -234,3 +234,20 @@ var summation = function (num) {
 }
 
 ```
+
+### 21-question
+
+[C:\Users\user\Desktop\Aslan Web\Codewars\8kyu\README.md]
+
+### my answer 
+
+```
+
+function basicOp(operation, value1, value2){
+  if(operation === "+") return value1 + value2;
+  if(operation === "-") return value1 - value2;
+  if(operation === "*") return value1 * value2;
+  if(operation === "/") return value1 / value2;
+}
+
+```
