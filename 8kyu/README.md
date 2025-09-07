@@ -310,3 +310,34 @@ scoobydoo.bark = function() {
 
 
 ```
+
+### 25-question
+
+[https://www.codewars.com/kata/53f9ee9f64b19d4b1d0001ed/train/javascript]
+
+### my answer 
+
+```
+
+function Warrior(n) {
+  let name = n;   
+
+  this.name = function(newName) {
+    if (newName) {
+      name = newName;
+    }
+    return name;
+  };
+}
+
+Warrior.prototype.toString = function() {
+  return "Hi! my name's " + this.name();
+};
+
+
+var albert = new Warrior("Albert");
+console.log(albert.toString()); 
+albert.name("Boris");
+console.log(albert.toString());
+
+```
